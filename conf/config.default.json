@@ -1,0 +1,8 @@
+{
+  "fileMappings": {
+    "mp3": "r2d2player %f",
+    "wav": "r2d2player %f",
+    "avi": "r2d2player %f",
+    "mp4": "r2d2player %f"
+  }
+}
